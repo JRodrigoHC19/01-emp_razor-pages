@@ -1,0 +1,1 @@
+Repositorio a utilizar: git clone https://github.com/MicrosoftDocs/mslearn-create-razor-pages-aspnet-core
